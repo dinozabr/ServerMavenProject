@@ -42,12 +42,11 @@ public class AllRequestsServlet extends HttpServlet{
         /// change args on createPageVariablesMap
         Map<String, Object> pageVariables = createPageVariablesMap(req);
         String message = req.getParameter("key");
-
-        resp.getWriter().println(message);
+//        resp.getWriter().println(message);
 
         resp.setContentType("text/html;charset=utf-8");
         resp.setStatus(HttpServletResponse.SC_OK);
-
+        resp.getWriter().println(PageGenerator.instance().getPage("page.html", pageVariables));
 
     }
 
