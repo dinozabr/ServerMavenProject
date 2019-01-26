@@ -1,4 +1,9 @@
-C:\Users\相忮隲IdeaProjects\ServerMavenProject\src\main\java\servlets\AllRequestsServlet.java
-C:\Users\相忮隲IdeaProjects\ServerMavenProject\src\main\java\templater\PageGenerator.java
-C:\Users\相忮隲IdeaProjects\ServerMavenProject\src\main\java\main\Main.java
-C:\Users\相忮隲IdeaProjects\ServerMavenProject\src\main\java\Frontend.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/servlets/AllRequestsServlet.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/accounts/UserProfile.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/main/Main.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/accounts/AccountService.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/servlets/SessionsServlet.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/servlets/UsersServlet.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/Frontend.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/servlets/SignInServlet.java
+/home/pyna/ServerMavenProjects/ServerMavenProject/src/main/java/servlets/SignUpServlet.java
